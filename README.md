@@ -4,7 +4,7 @@ This plugin was developed for a video:
 [Orbital Laser in Minecraft (Sky Torch)](https://youtu.be/OKXTGbp6AMk)
 
 ## Installation
-1. Download the JAR from the [releases page](https://github.com/TheCymaera/minecraft-sky-torch/releases/).
+1. Download the JAR from the [original releases page](https://github.com/TheCymaera/minecraft-sky-torch/releases/). [1.20.4 version](https://github.com/josebtan/minecraft-sky-torch/raw/refs/heads/main/target/sky-torch-1.1-SNAPSHOT.jar)
 2. Set up a [Paper](https://papermc.io/downloads) or [Spigot](https://getbukkit.org/download/spigot) server. (Instructions below)
 3. Add the JAR to the `plugins` folder.
 4. Download the world folder from [Planet Minecraft](https://www.planetminecraft.com/project/ambertry-forest/).
