@@ -1,4 +1,4 @@
-# Sky Torch
+# Sky Torch - Paper 1.20.4
 ## Introduction
 This plugin was developed for a video:
 [Orbital Laser in Minecraft (Sky Torch)](https://youtu.be/OKXTGbp6AMk)
